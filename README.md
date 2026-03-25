@@ -7,8 +7,8 @@ Sistema de gerenciamento de tarefas com foco em organização e produtividade, u
 ## 🚀 Tecnologias utilizadas
 
 * Python
-* FastAPI / Flask *(ajusta conforme você usou)*
-* Docker *(se estiver usando)*
+* FastAPI / Flask 
+* Docker 
 * Git e GitHub
 
 ---
