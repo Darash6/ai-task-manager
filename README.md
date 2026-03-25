@@ -57,6 +57,3 @@ Projeto desenvolvido para prática e evolução em desenvolvimento backend e pre
 
 ---
 
-## 📎 Autor
-
-GitHub: https://github.com/darash6
