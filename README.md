@@ -34,8 +34,9 @@ cd ai-task-manager
 # Instalar dependências
 pip install -r requirements.txt
 
-# Rodar aplicação
-python main.py
+# Rodar no terminal
+docker-compose up --build
+
 ```
 
 ---
