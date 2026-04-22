@@ -52,9 +52,3 @@ Durante o desenvolvimento, foram aplicados conceitos como:
 
 ---
 
-## 🎯 Objetivo
-
-Projeto desenvolvido para prática e evolução em desenvolvimento backend e preparação para oportunidades na área de tecnologia.
-
----
-
